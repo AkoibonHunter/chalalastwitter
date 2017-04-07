@@ -1,24 +1,38 @@
 import urllib2
 
 def countlettre (lettreacompter, txt):
-	i = 0     #compteur
+	compteur1 = 0     #compteur
+	compteur2 = 0
+	compteur3 = 0
+	compteur4 = 0
 	
-	for l in txt :    #lettre
+	for a in txt :    #lettre
 		if l == lettreacompter:
-			i = i+1
-	return i
-
+			compteur1 = compteur1+1
+	for b in txt :    #lettre
+		if l == lettreacompter:
+			compteur2 = compteur2+1
+	for c in txt :    #lettre
+		if l == lettreacompter:
+			compteur3 = compteur3 +1
+	for d in txt :    #lettre
+		if l == lettreacompter:
+			compteur4 = compteur4 +1
+	return compteur1 
+	return compteur2
+	return compteur3
+	return compteur4
 
 #novuellefcno
 
-
+print hehe
 
 #main
 f    = urllib2.urlopen("http://pi.com")
 data = f.read()
 f.close()
-print ilya
-print
+print hehe
+print i
 print countlettre('a', data)
 print countlettre('t', data)
 
