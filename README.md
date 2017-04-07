@@ -7,4 +7,5 @@ Faire la fonction qui compte le nombre de toute les lettres dans un texte en un 
 Afficher les résultats avec print ou bien les stocker dans une structure de donnée (tableau etmap )
 
 FAire une fonction qui dit si la lettre e est présente dans un texte en entré. (renvoit un booléen)
+
 FAire une fonction qui dit si il ya des caractéres spéciaux de le texte ou non ? (renvoit un boolée)
