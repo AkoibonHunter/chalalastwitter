@@ -28,3 +28,10 @@ l’entier est
 4253
 .
 
+Exercice 28
+ ́
+Ecrire  un  programme  qui  demande  la  largeur  et  la  longueur  (enti`eres)  d’un  rectangle  et
+affiche  le  rectangle  compos ́e  du  caract`ere
+’#’
+.  Modifier  le  programme  pour  n’afficher  que  le  contour  du
+rectangle.
