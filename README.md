@@ -42,3 +42,4 @@ Etape 1: faire un programme qui récupére des milliers d'images de cheval autom
 Etape 2: faire fonctionner la librairie CycleGAn.
 Etape 3: Traiter automatiquement les images récupérés avec CycleGan.
 Etape 4: créer un programme qui regroupe tout les sous-programme et possede un main argparse.
+Etape 5: reposter les images sur les posts twitter originaux automatiquement.
