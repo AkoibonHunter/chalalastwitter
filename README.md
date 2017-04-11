@@ -35,3 +35,6 @@ affiche  le  rectangle  compos ́e  du  caract`ere
 ’#’
 .  Modifier  le  programme  pour  n’afficher  que  le  contour  du
 rectangle.
+
+Faire fonctionner ca : et aller récupérer des images de chevals par millier sur Twitter.
+https://github.com/junyanz/CycleGAN
