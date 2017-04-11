@@ -38,3 +38,7 @@ rectangle.
 
 Faire fonctionner ca : et aller récupérer des images de chevals par millier sur Twitter.
 https://github.com/junyanz/CycleGAN
+Etape 1: faire un programme qui récupére des milliers d'images de cheval automatiquement sur twitter.
+Etape 2: faire fonctionner la librairie CycleGAn.
+Etape 3: Traiter automatiquement les images récupérés avec CycleGan.
+Etape 4: créer un programme qui regroupe tout les sous-programme et possede un main argparse.
